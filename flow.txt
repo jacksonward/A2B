@@ -1,0 +1,17 @@
+Get Info -> Act on Info -> Request New Info
+    or
+Get Board State -> Optimize Board State -> Get New State
+
+On every round:
+get shop -> decide what to buy from shop -> decide to reroll / not reroll
+get items available -> decide where to place items
+position units
+
+
+
+Pick hextech augments from armories
+Select augments at stages 1-4, 3-3, and 4-6.
+
+Carousel @ 2-4, 3-4, 4-4
+
+Fight Krugs @ 2-7, Wolves @ 3-7, Raptors @ 4-7

@@ -1,0 +1,430 @@
+{
+"Academy": {
+    "description": "Academics have bonus Attack Damage and Ability Power. They also learn from their allies, gaining and additional bonus whenever an ally casts their Ability.",
+    "levels": [
+        "",
+        "",
+        "18 Attack Damage and Ability Power; 3 from allies' casts",
+        "",
+        "40 Attack Damage and Ability Power; 5 from allies' casts",
+        "",
+        "50 Attack Damage and Ability Power; 10 from allies' casts",
+        "",
+        "70 Attack Damage and Ability Power; 15 from allies' casts"
+    ]
+},
+
+"Chemtech": {
+    "description": "After dropping below 75% Health, Chemtech champions gain 25% damage reduction, Attack Speed, and regenerate % of their maximum Health for 8 seconds.",
+    "levels": [
+        "",
+        "",
+        "",
+        "25% Attack Speed, 3% Health Regeneration",
+        "",
+        "50% Attack Speed, 4% Health Regeneration",
+        "",
+        "75% Attack Speed, 6% Health Regeneration",
+        "",
+        "100% Attack Speed, 10% Health Regeneration"
+    ]
+},
+
+"Clockwork": {
+    "description": "Your team has increased Attack Speed, with an increase per augment in the Hexcore.",
+    "levels": [
+        "",
+        "",
+        "10% Attack Speed + 5% per augment.",
+        "",
+        "35% Attack Speed + 10% per augment",
+        "",
+        "70% Attack Speed + 15% per augment"
+    ]
+},
+
+"Cuddly": {
+    "description": "At the start of combat, Yuumi attaches herself to the nearest ally, or to the lowest Health ally after being unattached for 2 seconds. Attaching to an ally grants them a shield equal to 60% of Yuumi's maximum Health. Yuumi detaches if the shield breaks.While attached, Yuumi is untargetable and cannot attack, but gains 5 Mana per second, and 10 Mana whenever the ally attacks.",
+    "levels": [
+        "",
+        "Only",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Enforcer": {
+    "description": "Enforcers stun enemies at the start of combat. They break free after 5 seconds, or after losing 40% or their maximum Health. Enforcers will not try to stun enemies who are immune to crowd control effects.",
+    "levels": [
+        "",
+        "",
+        "The enemy who has the most Health",
+        "",
+        "And the enemy who dealt the most damage last combat",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+
+"Glutton": {
+    "description": "An ally can be fed to Tahm Kench once per planning phase, permanently granting him either Attack Damage, Ability Power, Health, Armor, or Magic Resist. To feed, hold an ally over Tahm Kench until his mouth opens, then release.",
+    "levels": [
+        "",
+        "Only",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Imperial": {
+    "description": "At the start of combat, the Imperial who dealt the most damage last combat becomes the Tyrant. The Tyrant deals bonus damage. When the Tyrant dies, the Imperial who has dealt the most damage this combat becomes the new Tyrant.",
+    "levels": [
+        "",
+        "",
+        "",
+        "The Tyrant deals 75% bonus damage",
+        "",
+        "The Tyrant deals 125% bonus damage and the other Imperials deal 75% bonus damage",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Mercenary": {
+    "description": "Gain a treasure chest that opens when you win combat against a player. At the start of each planning phase vs a player, dice rolls add loot to the chest. The longer you've gone without opening the chest, the luckier the dice.",
+    "levels": [
+        "",
+        "",
+        "",
+        "Roll 2 dice",
+        "",
+        "The dice are even luckier!",
+        "",
+        "Upon winning, roll a 3rd dice that grants bonus loot.",
+        "",
+        ""
+    ]
+},
+
+"Scrap": {
+    "description": "At the start of combat, components held by Scrap champions turn into full items for the rest of combat. Also, your team gains a shield for each component equipped by your team, including those that are part of a full item.",
+    "levels": [
+        "",
+        "",
+        "1 component, 20 shield",
+        "",
+        "3 components, 35 shield",
+        "",
+        "All components, 60 shield",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Sister": {
+    "description": "Sisters gain empowered skills to compete with each other.",
+    "levels": [
+        "",
+        "",
+        "Vi's Ability range increases by 2 hexes. Jinx gains 40% Attack Speed for 3 seconds after scoring a takedown.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Socialite": {
+    "description": "Socialite reveal a spotlight on the battlefield. The unit standing in the spotlight at the start of combat gains unique bonuses.",
+    "levels": [
+        "",
+        "20% bonus damage",
+        "and 5 Mana per second",
+        "and heal for 30% of all damage they deal",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Mutant": {
+    "description": "Mutants gain unique bonuses. These are different each game.",
+    "levels": [
+        "",
+        "",
+        "",
+        "First",
+        "",
+        "Second",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Syndicate": {
+    "description": "Certain allies are cloaked in shadows, gaining 60 Armor, 60 Magic Resist and 20% Omnivamp (healing for a percentage of all damage dealt.)",
+    "levels": [
+        "",
+        "",
+        "",
+        "The Syndicate champion with the lowest percent Health",
+        "",
+        "All Syndicate champions",
+        "",
+        "Your whole team, and the effects are increased by 33%",
+        "",
+        ""
+    ]
+},
+
+"Yordle": {
+    "description": "DESCRIPTION",
+    "levels": [
+        "",
+        "",
+        "",
+        "After each player combat, a random Yordle is added to your bench for free.",
+        "",
+        "",
+        "And Yordle's Abilities cost 20% less to cast.",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Arcanist": {
+    "description": "Arcanists increase the Ability Power of your team.",
+    "levels": [
+        "",
+        "",
+        "Your team gains 20% Ability Power",
+        "",
+        "Your team gains 20% Ability Power, Arcanists gain 40%",
+        "",
+        "Your team gains 50% Ability Power, Arcanists gain 50%",
+        "",
+        "Your team gains 145% Ability Power.",
+        ""
+    ]
+},
+
+"Assassin": {
+    "description": "Innate: When combat starts, Assassins leap to the enemy backline. Assassins' Abilities can critically strike and they gain bonus Critical Strike Chance and bonus Critical Strike Damage.",
+    "levels": [
+        "",
+        "",
+        "+10% Crit Chance and +20% Crit Damage",
+        "",
+        "+30% Crit Chance and +40% Crit Damage",
+        "",
+        "+50% Crit Chance and +60% Crit Damage",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Bodyguard": {
+    "description": "Bodyguards have increased Armor. Shortly after combat begins, Bodyguards gain a Shield and taunt adjacent enemies, forcing them to attack the Bodyguard.",
+    "levels": [
+        "",
+        "",
+        "100 Armor, 100 Shield",
+        "",
+        "200 Armor, 300 Shield",
+        "",
+        "350 Armor, 600 Shield",
+        "",
+        "500 Armor, 1000 Shield",
+        ""
+    ]
+},
+
+"Bruiser": {
+    "description": "Your team gains bonus maximum Health. Bruisers gain double the bonus.",
+    "levels": [
+        "",
+        "",
+        "125 Health",
+        "",
+        "225 Health",
+        "",
+        "400 Health",
+        "",
+        "700 Health",
+        ""
+    ]
+},
+
+"Challenger": {
+    "description": "Challengers get bonus Attack Speed. Upon scoring a takedown, Challengers dash to a new target and double this bonus for 2.5 seconds.",
+    "levels": [
+        "",
+        "",
+        "30% Attack Speed",
+        "",
+        "55% Attack Speed",
+        "",
+        "80% Attack Speed",
+        "",
+        "130% Attack Speed",
+        ""
+    ]
+},
+
+"Colossus": {
+    "description": "Innate: Colossi are bigger, more powerful, and immune to crowd control effects. However, each Colossus requires 2 team slots.",
+    "levels": [
+        "",
+        "",
+        "Colossus champions take 25% less damage.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Enchanter": {
+    "description": "Your team has bonus Magic Resist. Enchanters gain bonus healing and shielding.",
+    "levels": [
+        "",
+        "",
+        "+20 Magic Resist; 25% healing and shielding",
+        "+35 Magic Resist; 40% healing and shielding",
+        "+50 Magic Resist; 60% healing and shielding",
+        "+75 Magic Resist; 100% healing and shielding",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Innovator": {
+    "description": "Innovators build a mechanical companion to join the battle. The companion receives bonus Health and Attack Damage based on allied Innovators' star levels.",
+    "levels": [
+        "",
+        "",
+        "",
+        "Mechanical Scarab",
+        "",
+        "Mechanical Bear",
+        "",
+        "Mechanical Dragon",
+        "",
+        ""
+    ]
+},
+
+"Protector": {
+    "description": "Protectors shield themselves for 6 seconds whenever they cast an Ability. This shield doesn't stack.",
+    "levels": [
+        "",
+        "",
+        "20% maximum Health shield",
+        "35% maximum Health shield",
+        "45% maximum Health shield",
+        "60% maximum Health shield",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Scholar": {
+    "description": "Your team gains Mana every 2 seconds.",
+    "levels": [
+        "",
+        "",
+        "5 Mana",
+        "",
+        "10 Mana",
+        "",
+        "20 Mana",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Sniper": {
+    "description": "Innate: Snipers gain 1 hex Attack Range. Snipers deal bonus damage for each hex between themselves and their target.",
+    "levels": [
+        "",
+        "",
+        "8% bonus damage",
+        "",
+        "16% bonus damage",
+        "",
+        "30% bonus damage",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Transformer": {
+    "description": "DESCRIPTION",
+    "levels": [
+        "",
+        "Jayce adopts melee form when placed in the front 2 rows, and ranged form in the back 2 rows.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+},
+
+"Twinshot": {
+    "description": "Twinshots gain bonus Attack Damage. When a Twinshot attacks, they have a chance to attack twice instead.",
+    "levels": [
+        "",
+        "",
+        "5 Attack Damage, 40% chance",
+        "",
+        "40 Attack Damage, 70% chance",
+        "",
+        "80 Attack Damage, 100% chance",
+        "",
+        "",
+        ""
+    ]
+}
+}

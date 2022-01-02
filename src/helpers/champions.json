@@ -1,0 +1,1046 @@
+{
+	"Akali": {
+        "tier": 5,
+        "origin": ["syndicate"],
+        "trait": ["assassin"],
+        "health": [800, 1440, 2592],
+        "mana": 40,
+        "startingMana": 0,
+        "attackDamage": [70, 126, 226.8],
+        "attackSpeed": 0.9,
+        "attackRange": 1,
+        "armor": 30,
+        "magicResist": 30,
+        "ability": {
+            "name": "Perfect Execution",
+            "description": "Dashes in a line towards the most enemies, dealing 275 / 375 / 2000 (× Ability power icon.png AP) magic damage as she passes through and marking them for 7 seconds. When a marked target drops below 20 / 25 / 90% health, she dashes through them, executing enemies below that health threshold and dealing 250 / 325 / 2000 (× Ability power icon.png AP) magic damage to all other enemies she passes through.",
+            "scaling": ["ap"]
+        }
+    },
+	"Blitzcrank": {
+		"tier": 2,
+		"origin": ["scrap"],
+		"trait": ["bodyguard", "protector"],
+		"health": [650, 1170, 2106],
+		"mana": 175,
+		"startingMana": 175,
+		"attackDamage": [65, 117, 210.6],
+		"attackSpeed": 0.5,
+		"attackRange": 1,
+		"armor": 45,
+		"magicResist": 45,
+		"ability": {
+			"name": "Rocket Grab",
+			"description": "Airborne icon.png Pulls the farthest enemy into melee range, dealing 150 / 300 / 1337 (× Ability power icon.png AP) magic damage and Stun icon.png stunning them for 2.5 seconds. Additionally his next basic attack Airborne icon.png knocks up his target for 1 second. Allies within range will prioritize attacking that enemy.",
+			"scaling": ["ap"]
+		}
+	},
+	"Braum": {
+		"tier": 4,
+		"origin": ["syndicate"],
+		"trait": ["bodyguard"],
+		"health": [1100, 1980, 3564],
+		"mana": 180,
+		"startingMana": 100,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 60,
+		"magicResist": 60,
+		"ability": {
+			"name": "Vault Breaker",
+			"description": "Slams his vault door into the ground, creating a fissure towards his target. Enemies within 2 hexes of him and those struck by the fissure are Stun icon.png stunned for 2 / 3 / 6 seconds and take 100 / 200 / 600 (× Ability power icon.png AP) magic damage.",
+			"scaling": ["ap"]
+		}
+	},
+	"Caitlyn": {
+        "tier": 1,
+		"origin": ["enforcer"],
+		"trait": ["sniper"],
+		"health": [500, 900, 1620],
+		"mana": 110,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.75,
+		"attackRange": 5,
+		"armor": 15,
+		"magicResist": 15,
+		"ability": {
+			"name": "Ace in the Hole",
+			"description": "Takes aim at the furthest enemy for 1.1 seconds, firing a deadly bullet towards them that deals 800 / 1400 / 2250 (× Ability power icon.png AP) magic damage to the first enemy it hits.",
+			"scaling": ["ap"]
+		}
+    },
+	"Camille": {
+        "tier": 1,
+		"origin": ["clockwork"],
+		"trait": ["challenger"],
+		"health": [700, 1260, 2268],
+		"mana": 50,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Defensive Sweep",
+			"description": "Gains a 225 / 300 / 435 (× Ability power icon.png AP) shield for 4 seconds, then she sweeps her leg, dealing 150 / 200 / 300 (× Ability power icon.png AP) magic damage to enemies in a cone. While the shield is active, her basic attacks heal her for 30 / 50 / 80 (× Ability power icon.png AP).",
+			"scaling": ["ap"]
+		}
+    },
+	"ChoGath": {
+        "tier": 3,
+		"origin": ["mutant"],
+		"trait": ["bruiser", "colossus"],
+		"health": [1300, 2340, 4212],
+		"mana": 160,
+		"startingMana": 100,
+		"attackDamage": [100, 180, 324],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 50,
+		"magicResist": 50,
+		"ability": {
+			"name": "Feast",
+			"description": "Devours the lowest health enemy within range, dealing 800 / 900 / 1000 (× Ability power icon.png AP) magic damage. If this kills the target, he gains a stack of Feast, up to 20 / 40 / 999 stacks. Each stack of Feast permanently grants him 2% bonus health and increased size.",
+			"scaling": ["ap"]
+		}
+    },
+	"Darius": {
+        "tier": 1,
+		"origin": ["syndicate"],
+		"trait": ["bodyguard"],
+		"health": [650, 1170, 2106],
+		"mana": 95,
+		"startingMana": 50,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.5,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Decimate",
+			"description": "Swings his axe in a circle, dealing 200 / 275 / 350 (× Ability power icon.png AP) magic damage and healing himself for 125 / 150 / 175 (× Ability power icon.png AP) for each enemy hit.",
+			"scaling": ["ap"]
+		}
+    },
+	"DrMundo": {
+        "tier": 4,
+		"origin": ["chemtech", "mutant"],
+		"trait": ["bruiser"],
+		"health": [1000, 1800, 3240],
+		"mana": 155,
+		"startingMana": 75,
+		"attackDamage": [80, 144, 259.2],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 50,
+		"magicResist": 50,
+		"ability": {
+			"name": "Zap Dose",
+			"description": "Injects himself with medicine, healing 40% of his maximum health and becoming energized for 5 seconds. While energized, he heals 20 / 30 / 100% his maximum health over the duration and deals 30 / 50 / 100 (× Ability power icon.png AP) magic damage to a random nearby enemy every second. At the end of the ability, he expels a burst of electricity that deals 20 / 25 / 30% (× Ability power icon.png AP) his current health as magic damage to all enemies within 2 hexes.",
+			"scaling": ["ap", "health"]
+		}
+    },
+	"Ekko": {
+        "tier": 3,
+		"origin": ["scrap"],
+		"trait": ["assassin"],
+		"health": [650, 1170, 2106],
+		"mana": 120,
+		"startingMana": 80,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.8,
+		"attackRange": 1,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Parallel Convergence",
+			"description": "Invokes an afterimage that bats a device towards the largest group of units. Upon landing, it deals 150 / 200 / 350 (× Ability power icon.png AP) magic damage to enemies within and reduces their attack speed by 35 / 35 / 50% for 4 seconds. Allies inside gain 40 / 50 / 70 (× Ability power icon.png AP) bonus attack speed for 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Ezreal": {
+        "tier": 1,
+		"origin": ["scrap"],
+		"trait": ["innovator"],
+		"health": [500, 900, 1620],
+		"mana": 40,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.65,
+		"attackRange": 4,
+		"armor": 15,
+		"magicResist": 15,
+		"ability": {
+			"name": "Mystic Shot",
+			"description": "Fires a missile at his target, dealing 30 / 60 / 90 (+ 150% AD) physical damage. If the missile hits, he grants himself 20% (× Ability power icon.png AP) bonus attack speed, stacking up to 100% (× Ability power icon.png AP) at 5 stacks.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Fiora": {
+        "tier": 4,
+		"origin": ["enforcer"],
+		"trait": ["challenger"],
+		"health": [850, 1530, 2754],
+		"mana": 140,
+		"startingMana": 60,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.9,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Blade Waltz",
+			"description": "Becomes untargetable as she strikes her target's vitals 4 times. Each strike deals 160% AD physical damage, 50 / 100 / 300 (× Ability power icon.png AP) true damage, and heals her for 15% of damage dealt. If the target dies, she will change target to the nearest enemy.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Galio": {
+        "tier": 5,
+		"origin": ["socialite"],
+		"trait": ["bodyguard", "colossus"],
+		"health": [1800, 3240, 5832],
+		"mana": 300,
+		"startingMana": 180,
+		"attackDamage": [150, 270, 486],
+		"attackSpeed": 0.65,
+		"attackRange": 1,
+		"armor": 70,
+		"magicResist": 70,
+		"ability": {
+			"name": "Colossoal Entrance",
+			"description": "PASSIVE: Critical strike icon.png Critical strikes slam the ground, dealing 80 / 125 / 1999 (× Ability power icon.png AP) bonus magic damage to enemies around his target. ACTIVE: Becomes invulnerable and leaps into the sky before crashing down on the largest group of enemies. Enemies within a large radius take 125 / 250 / 2000 (× Ability power icon.png AP) magic damage and are Airborne icon.png knocked into the sky for 1.25 / 1.75 / 9 seconds. The lower the enemy's maximum health is compared to his, the longer they are Airborne icon.png knocked up.",
+			"scaling": ["ap", "health"]
+		}
+    },
+	"Gangplank": {
+        "tier": 3,
+		"origin": ["mercenary"],
+		"trait": ["twinshot"],
+		"health": [800, 1440, 2592],
+		"mana": 50,
+		"startingMana": 0,
+		"attackDamage": [80, 144, 259.2],
+		"attackSpeed": 0.75,
+		"attackRange": 1,
+		"armor": 45,
+		"magicResist": 45,
+		"ability": {
+			"name": "Parrrley",
+			"description": "Shoots his target, dealing 125 / 150 / 200 (× Ability power icon.png AP) (+ 170% AD) physical damage. If this kills a champion, he plunders 1 gold.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Garen": {
+        "tier": 1,
+		"origin": ["academy"],
+		"trait": ["protector"],
+		"health": [650, 1170, 2106],
+		"mana": 80,
+		"startingMana": 40,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Decisive Strike",
+			"description": "Shrugs off all crowd control effects, empowering his next strike to deal 200% AD (+ 20% (× Ability power icon.png AP) of his missing health) bonus physical damage. This ability can be cast while Stun icon.png stunned.",
+			"scaling": ["ad", "ap", "health"]
+		}
+    },
+	"Graves": {
+        "tier": 1,
+		"origin": ["academy"],
+		"trait": ["twinshot"],
+		"health": [750, 1350, 2430],
+		"mana": 120,
+		"startingMana": 80,
+		"attackDamage": [65, 117, 210.6],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Smoke Grenade",
+			"description": "Launches a smoke grenade towards his current target. The grenade explodes on impact dealing 150 / 250 / 400 (× Ability power icon.png AP) magic damage to nearby enemies and Disarm icon.png disarms enemies who remain within the smoke cloud for 2 / 2.5 / 3 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Heimerdinger": {
+        "tier": 3,
+		"origin": ["yordle"],
+		"trait": ["innovator", "scholar"],
+		"health": [650, 1170, 2106],
+		"mana": 50,
+		"startingMana": 0,
+		"attackDamage": [45, 81, 145.8],
+		"attackSpeed": 0.6,
+		"attackRange": 3,
+		"armor": 35,
+		"magicResist": 35,
+		"ability": {
+			"name": "Rocker Swarm",
+			"description": "Fires a wave of 5 rockets that converge on his target. Each rocket deals 70 / 100 / 150 (× Ability power icon.png AP) magic damage. Every 3rd cast fires 3 waves instead.",
+			"scaling": ["ap"]
+		}
+    },
+	"Illaoi": {
+        "tier": 1,
+		"origin": ["mercenary"],
+		"trait": ["bruiser"],
+		"health": [700, 1260, 2268],
+		"mana": 80,
+		"startingMana": 40,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Harsh Lesson",
+			"description": "Slams her target, linking their souls for 5 seconds and dealing 175 / 300 / 500 (× Ability power icon.png AP) magic damage. While linked, she is healed for 25 / 30 / 35% of the damage taken by her target.",
+			"scaling": ["ap"]
+		}
+    },
+	"Janna": {
+        "tier": 4,
+		"origin": ["scrap"],
+		"trait": ["enchanter", "scholar"],
+		"health": [700, 1260, 2268],
+		"mana": 180,
+		"startingMana": 80,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.7,
+		"attackRange": 3,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Monsoon",
+			"description": "Summons a Monsoon, healing all allies by 275 / 350 / 1000 (× Ability power icon.png AP) over 3 seconds. When the spell is cast, nearby enemies are Airborne icon.png knocked back and Stun icon.png stunned for 0.5 / 0.5 / 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Jayce": {
+        "tier": 5,
+		"origin": ["enforcer"],
+		"trait": ["innovator", "transformer"],
+		"health": [1000, 1800, 3240],
+		"mana": 60,
+		"startingMana": 0,
+		"attackDamage": [90, 162, 291.6],
+		"attackSpeed": 0.75,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "To the Skies! / Shock Blast",
+			"description": "PASSIVE: While in Melee role.png melee form, gain 50 bonus armor and bonus magic resistance. While in Ranged role.png ranged form, gain 35 / 60 / 1000 bonus attack damage and increases his attack range to 4 hexes. ACTIVE: Melee - To the Skies!: Overcharges himself, becoming unstoppable and gaining a 400 / 600 / 3000 (× Ability power icon.png AP) shield for 3 seconds. He then attacks twice, cleaving enemies in front of him for 160 / 170 / 1000% AD physical damage before leaping to the skies and slamming down on his target. Enemies within 2 hexes take the same damage and have their armor and magic resistance reduced by 50 / 50 / 70% for 5 seconds. Ranged - Shock Blast: Summons an acceleration gate, granting allies within the same row 20 / 40 / 1000% (× Ability power icon.png AP) bonus attack speed for 5 seconds. He then replaces his next 3 attacks with orbs of electricity that deal 170 / 180 / 500% AD physical damage in an area around his target. The 3rd orb has an increased area of effect.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Jhin": {
+        "tier": 4,
+		"origin": ["clockwork"],
+		"trait": ["sniper"],
+		"health": [700, 1260, 2268],
+		"mana": 80,
+		"startingMana": 0,
+		"attackDamage": [95, 171, 307.8],
+		"attackSpeed": 0.9,
+		"attackRange": 5,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Curtain Call",
+			"description": "PASSIVE: Has a fixed attack speed of 0.9 / 0.9 / 1.4 and converts every 1% of bonus attack speed into 0.8 bonus attack damage. ACTIVE: Transforms his weapon into a powerful sniper rifle for his next four shots. Each shot deals 175 / 200 / 344% AD physical damage, reduced by 50% for each target they pierce through. The fourth shot is guaranteed to Critical strike icon.png critically strike and deals 0% − 100% (based on target's missing health) (× Ability power icon.png AP) more damage.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Jinx": {
+        "tier": 5,
+		"origin": ["scrap", "sister"],
+		"trait": ["twinshot"],
+		"health": [888, 1598.4, 2877.12],
+		"mana": 99,
+		"startingMana": 0,
+		"attackDamage": [88, 158.4, 285.12],
+		"attackSpeed": 1.1,
+		"attackRange": 4,
+		"armor": 35,
+		"magicResist": 35,
+		"ability": {
+			"name": "Super Mega Death Rocket",
+			"description": "Rides her rocket into the sky, then comes crashing down near the center-most enemy, dealing 425 / 650 / 8888 (× Ability power icon.png AP) magic damage to enemies around the epicenter, and 50% to all other enemies in in a large area. The epicenter burns every unit except her for 5 seconds, dealing 2 / 2.5 / 3% of the target's maximum health each second as true damage, and applying Grievous Wounds icon.png Grievous Wounds for the duration. She then swaps to her rocket launcher for the rest of combat, causing her basic attacks to explode for 190 / 210 / 888% AD physical damage in a small area around her target.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Kaisa": {
+        "tier": 5,
+		"origin": ["mutant"],
+		"trait": ["challenger"],
+		"health": [900, 1620, 2916],
+		"mana": 150,
+		"startingMana": 90,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 1.2,
+		"attackRange": 3,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Icathian Monsoon",
+			"description": "Dashes to the hex furthest from all enemies and then fires a volley of 12 / 18 / 100 missiles spread evenly among all enemies that each deal 80 / 100 / 180 (× Ability power icon.png AP) magic damage. She fires an additional missile for each time she has basic attacked in combat.",
+			"scaling": ["ap"]
+		}
+    },
+	"Kassadin": {
+        "tier": 1,
+		"origin": ["mutant"],
+		"trait": ["protector"],
+		"health": [650, 1170, 2106],
+		"mana": 100,
+		"startingMana": 60,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.65,
+		"attackRange": 1,
+		"armor": 35,
+		"magicResist": 35,
+		"ability": {
+			"name": "Null Sphere",
+			"description": "Fires an orb of void energy at his target, dealing 250 / 325 / 400 (× Ability power icon.png AP) magic damage, increases the mana cost of their next spell cast by 35 / 50 / 65%, and grants himself 35% damage reduction for 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Katarina": {
+        "tier": 2,
+		"origin": ["academy"],
+		"trait": ["assassin"],
+		"health": [650, 1170, 2106],
+		"mana": 40,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.7,
+		"attackRange": 1,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Shunpo",
+			"description": "Blinks behind the enemy with the lowest health within 3 hexes and slashes all adjacent enemies, dealing 180 / 225 / 300 (× Ability power icon.png AP) magic damage. For each enemy killed with this ability, she gains 20 / 20 / 40 mana.",
+			"scaling": ["ap"]
+		}
+    },
+	"KogMaw": {
+        "tier": 2,
+		"origin": ["mutant"],
+		"trait": ["sniper", "twinshot"],
+		"health": [550, 990, 1782],
+		"mana": 30,
+		"startingMana": 0,
+		"attackDamage": [30, 54, 97.2],
+		"attackSpeed": 0.6,
+		"attackRange": 4,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Barrage",
+			"description": "For 3 seconds, gains infinite attack range, 75% bonus attack speed, and his basic attacks deal 6 / 7 / 10% (× Ability power icon.png AP) of target's maximum health bonus magic damage.",
+			"scaling": ["ap"]
+		}
+    },
+	"Leona": {
+        "tier": 1,
+		"origin": ["academy"],
+		"trait": ["bodyguard"],
+		"health": [850, 1530, 2754],
+		"mana": 120,
+		"startingMana": 75,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 50,
+		"magicResist": 50,
+		"ability": {
+			"name": "Solar Eclipse",
+			"description": "Calls down a beacon of light upon herself, granting herself a 400 / 650 / 1000 (× Ability power icon.png AP) shield for 5 / 5 / 8 seconds. All allies within 2 hexes gain 30 / 50 / 80 bonus armor and bonus magic resistance for the same duration.",
+			"scaling": ["ap"]
+		}
+    },
+	"Lissandra": {
+        "tier": 3,
+		"origin": ["chemtech"],
+		"trait": ["scholar"],
+		"health": [750, 1350, 2430],
+		"mana": 120,
+		"startingMana": 70,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.6,
+		"attackRange": 3,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Iron Maiden",
+			"description": "Encases her target in an iron maiden, dealing 250 / 350 / 575 (× Ability power icon.png AP) magic damage to enemies within 2 hexes and Stun icon.png stunning them for 1.5 seconds. If she is below 50% health, she encases herself instead, dealing damage to surrounding enemies and becoming untargetable and invulnerable for 2 seconds. Damage from this ability reduces attack damage by 40% for 5 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Lulu": {
+        "tier": 2,
+		"origin": ["yordle"],
+		"trait": ["enchanter"],
+		"health": [600, 1080, 1944],
+		"mana": 125,
+		"startingMana": 60,
+		"attackDamage": [40, 72, 129.6],
+		"attackSpeed": 0.65,
+		"attackRange": 2,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Wild Growth",
+			"description": "Enlarges 1 / 2 / 3 low health allies, granting them 325 / 350 / 375 (× Ability power icon.png AP) bonus health and Airborne icon.png knocking up enemies near them. If the ally is already enlarged, they are healed instead.",
+			"scaling": ["ap"]
+		}
+    },
+	"Lux": {
+        "tier": 4,
+		"origin": ["academy"],
+		"trait": ["arcanist"],
+		"health": [750, 1350, 2430],
+		"mana": 60,
+		"startingMana": 0,
+		"attackDamage": [45, 81, 145.8],
+		"attackSpeed": 0.7,
+		"attackRange": 4,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Final Spark",
+			"description": "After gathering energy, fires a beam towards the farthest enemy target, dealing 225 / 375 / 900 (× Ability power icon.png AP) magic damage. If she kills a unit with her beam, she gains 30 mana.",
+			"scaling": ["ap"]
+		}
+    },
+	"Malzahar": {
+        "tier": 3,
+		"origin": ["mutant"],
+		"trait": ["arcanist"],
+		"health": [650, 1170, 2106],
+		"mana": 60,
+		"startingMana": 30,
+		"attackDamage": [40, 72, 129.6],
+		"attackSpeed": 0.65,
+		"attackRange": 4,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Malefic Visions",
+			"description": "Infects the mind of the closest unafflicted target, dealing 700 / 850 / 1000 (× Ability power icon.png AP) magic damage over 8 seconds and reduces their magic resistance by 40% for the duration. If an afflicted target dies, this ability spreads to the nearest 1 / 1 / 2 unafflicted targets with the remaining duration.",
+			"scaling": ["ap"]
+		}
+    },
+	"MissFortune": {
+        "tier": 3,
+		"origin": ["mercenary"],
+		"trait": ["sniper"],
+		"health": [650, 1170, 2106],
+		"mana": 80,
+		"startingMana": 40,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.75,
+		"attackRange": 4,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Make It Rain",
+			"description": "Rains 4 waves of bullets down around a random enemy, dealing 300 / 400 / 600 (× Ability power icon.png AP) magic damage to enemies in the area and applying Grievous Wounds icon.png Grievous Wounds for 6 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Orianna": {
+        "tier": 4,
+		"origin": ["clockwork"],
+		"trait": ["enchanter"],
+		"health": [750, 1350, 2430],
+		"mana": 180,
+		"startingMana": 80,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.75,
+		"attackRange": 4,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Command: Shockwave",
+			"description": "Sends out her ball towards the largest group of champions, then commands it to release a shockwave. Allies within 2 hexes gain a 100 / 160 / 400 (× Ability power icon.png AP) shield for 4 seconds, while enemies within the area are briefly Airborne icon.png knocked up and dealt 350 / 550 / 1200 (× Ability power icon.png AP) magic damage. Enemies adjacent to the ball are drawn in and Stun icon.png stunned for 1.5 / 1.5 / 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Poppy": {
+        "tier": 1,
+		"origin": ["yordle"],
+		"trait": ["bodyguard"],
+		"health": [650, 1170, 2106],
+		"mana": 100,
+		"startingMana": 50,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Buckler Toss",
+			"description": "Throws her buckler at the farthest enemy, dealing 180 / 210 / 240% maximum armor magic damage. The buckler then bounces back, granting her a 225 / 275 / 325 (× Ability power icon.png AP) shield.",
+			"scaling": ["ap"]
+		}
+    },
+	"Quinn": {
+        "tier": 2,
+		"origin": ["mercenary"],
+		"trait": ["challenger"],
+		"health": [550, 990, 1782],
+		"mana": 140,
+		"startingMana": 70,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.7,
+		"attackRange": 4,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Disarming Assault",
+			"description": "Sends Valor out at the target with the highest attack speed, dealing 200 / 300 / 700 (× Ability power icon.png AP) magic damage to the target and nearby enemies. The main target is Disarm icon.png disarmed for 2 / 2.5 / 3 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Samira": {
+        "tier": 3,
+		"origin": ["imperial"],
+		"trait": ["challenger"],
+		"health": [650, 1170, 2106],
+		"mana": 35,
+		"startingMana": 0,
+		"attackDamage": [85, 153, 275.4],
+		"attackSpeed": 0.7,
+		"attackRange": 3,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Flair",
+			"description": "If a target is adjacent to her, she slashes with her blade in a cone towards them dealing 175 / 180 / 190% AD physical damage to all enemies within and reducing their armor by 10 / 20 / 40 (× Ability power icon.png AP). This armor reduction can stack. If no targets are adjacent, she fires an empowered shot at her target with the same effects and refunds 20 mana.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Seraphine": {
+        "tier": 4,
+		"origin": ["socialite"],
+		"trait": ["innovator"],
+		"health": [750, 1350, 2430],
+		"mana": 160,
+		"startingMana": 80,
+		"attackDamage": [40, 72, 129.6],
+		"attackSpeed": 0.7,
+		"attackRange": 4,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Encore",
+			"description": "Projects her song towards the largest group of units. The song deals 250 / 400 / 1000 (× Ability power icon.png AP) magic damage to enemies. Allies it passes through are healed 250 / 400 / 1000 (× Ability power icon.png AP) and gain 30 / 50 / 150% bonus attack speed for 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Shaco": {
+        "tier": 3,
+		"origin": ["syndicate"],
+		"trait": ["assassin"],
+		"health": [650, 1170, 2106],
+		"mana": 90,
+		"startingMana": 50,
+		"attackDamage": [85, 153, 275.4],
+		"attackSpeed": 0.75,
+		"attackRange": 1,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Deceive",
+			"description": "Dips into the shadows, briefly becoming untargetable. His next attack is empowered to deal 75 / 100 / 125 (× Ability power icon.png AP) (+ 175% AD) physical damage, and is guaranteed to Critical strike icon.png critically strike against targets below 50% health.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Singed": {
+        "tier": 1,
+		"origin": ["chemtech"],
+		"trait": ["innovator"],
+		"health": [650, 1170, 2106],
+		"mana": 150,
+		"startingMana": 100,
+		"attackDamage": [60, 108, 194.4],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Fling",
+			"description": "Airborne icon.png Flings a nearby enemy towards the largest cluster of enemies, Stun icon.png stunning his target for 1.5 / 2 / 2.5 seconds when they land. All adjacent enemies take 125 / 175 / 250 (× Ability power icon.png AP) magic damage and are briefly Stun icon.png stunned.",
+			"scaling": ["ap"]
+		}
+    },
+	"Sion": {
+        "tier": 4,
+		"origin": ["imperial"],
+		"trait": ["colossus", "protector"],
+		"health": [1500, 2700, 4860],
+		"mana": 175,
+		"startingMana": 100,
+		"attackDamage": [130, 234, 421.2],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 50,
+		"magicResist": 50,
+		"ability": {
+			"name": "Decimating Smash",
+			"description": "Winds up for a moment, then smashes his axe down. All enemies within a large area are Airborne icon.png knocked up, Stun icon.png stunned for 1 / 1.5 / 4 seconds, and dealt 300 / 360 / 750 (× Ability power icon.png AP) magic damage.",
+			"scaling": ["ap"]
+		}
+    },
+	"Swain": {
+        "tier": 2,
+		"origin": ["imperial"],
+		"trait": ["arcanist"],
+		"health": [800, 1440, 2592],
+		"mana": 80,
+		"startingMana": 40,
+		"attackDamage": [45, 81, 145.8],
+		"attackSpeed": 0.6,
+		"attackRange": 2,
+		"armor": 45,
+		"magicResist": 45,
+		"ability": {
+			"name": "Death's Hand",
+			"description": "Unleashes piercing bolts of eldritch power in a cone towards his target, dealing 250 / 375 / 525 (× Ability power icon.png AP) magic damage to enemies within and healing 200 / 250 / 325 (× Ability power icon.png AP) for each enemy hit.",
+			"scaling": ["ap"]
+		}
+    },
+	"TahmKench": {
+        "tier": 5,
+		"origin": ["glutton", "mercenary"],
+		"trait": ["bruiser"],
+		"health": [1000, 1800, 3240],
+		"mana": 60,
+		"startingMana": 30,
+		"attackDamage": [80, 144, 259.2],
+		"attackSpeed": 0.55,
+		"attackRange": 1,
+		"armor": 60,
+		"magicResist": 60,
+		"ability": {
+			"name": "Devour",
+			"description": "Devours his target, storing them in his belly and dealing 1000 / 1500 / 30000 (× Ability power icon.png AP) magic damage over 3 seconds. During this time, the target is invulnerable to other sources of damage and he gains 40% damage reduction. If they die while inside, he either spits out a random item component they were holding, or the cost of the unit in gold. Otherwise, he spits them towards the farthest enemy, briefly Stun icon.png stunning targets they impact. If the target is immune to crowd control, they take 35% damage instead.",
+			"scaling": ["ap"]
+		}
+    },
+	"Talon": {
+        "tier": 2,
+		"origin": ["imperial"],
+		"trait": ["assassin"],
+		"health": [650, 1170, 2106],
+		"mana": 0,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.7,
+		"attackRange": 1,
+		"armor": 25,
+		"magicResist": 25,
+		"ability": {
+			"name": "Blade's End",
+			"description": "His first basic attack against an enemy causes them to bleed 450 / 625 / 950 (× Ability power icon.png AP) magic damage over 7 seconds. Every 3rd basic attack on a target applies an additional bleed.",
+			"scaling": ["ap"]
+		}
+    },
+	"Taric": {
+        "tier": 3,
+		"origin": ["socialite"],
+		"trait": ["enchanter"],
+		"health": [800, 1440, 2592],
+		"mana": 100,
+		"startingMana": 50,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 50,
+		"magicResist": 50,
+		"ability": {
+			"name": "Starlight Bastion",
+			"description": "Heals himself and the lowest health ally for 375 / 475 / 600 (× Ability power icon.png AP). Any overhealing is converted to a shield that lasts 4 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Tristana": {
+        "tier": 2,
+		"origin": ["yordle"],
+		"trait": ["sniper"],
+		"health": [600, 1080, 1944],
+		"mana": 60,
+		"startingMana": 0,
+		"attackDamage": [55, 99, 178.2],
+		"attackSpeed": 0.75,
+		"attackRange": 5,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Buster Shot",
+			"description": "Fires a massive cannonball towards her target, dealing 125 / 150 / 175 (× Ability power icon.png AP) (+ 200 / 210 / 225% AD) physical damage to the first enemy it hits. If the target is within 2 hexes of her, they're Airborne icon.png knocked back 1 / 2 / 3 hexes and briefly Stun icon.png stunned.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Trundle": {
+        "tier": 2,
+		"origin": ["scrap"],
+		"trait": ["bruiser"],
+		"health": [700, 126, 2268],
+		"mana": 70,
+		"startingMana": 40,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.75,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Chomp",
+			"description": "Bites his target dealing 150% AD physical damage, reduces the attack speed of the target by 50% for 3 seconds, and steals 20 / 30 / 50 (× Ability power icon.png AP) attack damage for the rest of combat.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Twisted Fate": {
+        "tier": 1,
+		"origin": ["syndicate"],
+		"trait": ["arcanist"],
+		"health": [500, 900, 1620],
+		"mana": 40,
+		"startingMana": 30,
+		"attackDamage": [40, 72, 129.6],
+		"attackSpeed": 0.65,
+		"attackRange": 3,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Wild Cards",
+			"description": "Throws three cards in a cone that deal 145 / 190 / 255 (× Ability power icon.png AP) magic damage to each enemy they pass through.",
+			"scaling": ["ap"]
+		}
+    },
+	"Twitch": {
+        "tier": 1,
+		"origin": ["chemtech"],
+		"trait": ["assassin"],
+		"health": [450, 810, 1458],
+		"mana": 35,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.7,
+		"attackRange": 3,
+		"armor": 15,
+		"magicResist": 15,
+		"ability": {
+			"name": "Piercing Bolt",
+			"description": "Fires a powerful bolt towards his target that pierces through enemies hit, dealing 25 / 50 / 75 (× Ability power icon.png AP) (+ 175 / 185 / 200% AD) physical damage and applying Grievous Wounds icon.png Grievous Wounds for 5 seconds.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Urgot": {
+        "tier": 4,
+		"origin": ["chemtech"],
+		"trait": ["twinshot"],
+		"health": [800, 1440, 2592],
+		"mana": 60,
+		"startingMana": 0,
+		"attackDamage": [75, 135, 243],
+		"attackSpeed": 0.65,
+		"attackRange": 3,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Purge",
+			"description": "For the next 5 (× Ability power icon.png AP) seconds, he attacks the closest enemy at a fixed rate of 5 / 7 / 12 attacks per second. Each attack deals 30% AD × 30% attack speed physical damage.",
+			"scaling": ["ap", "ad"]
+		}
+    },
+	"Vex": {
+        "tier": 3,
+		"origin": ["yordle"],
+		"trait": ["arcanist"],
+		"health": [800, 1440, 2592],
+		"mana": 100,
+		"startingMana": 50,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.6,
+		"attackRange": 2,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Personal Space",
+			"description": "Shields herself for 550 / 700 / 900 (× Ability power icon.png AP) over 4 seconds. When the shield expires, it deals 125 / 200 / 275 (× Ability power icon.png AP) magic damage to all enemies within 2 hexes and 125 / 200 / 275 (× Ability power icon.png AP) bonus damage if it wasn't destroyed. If it was destroyed, the ability becomes 25% stronger this combat. This effect can stack.",
+			"scaling": ["ap"]
+		}
+    },
+	"Vi": {
+        "tier": 2,
+		"origin": ["enforcer", "sister"],
+		"trait": ["bruiser"],
+		"health": [700, 1260, 2268],
+		"mana": 50,
+		"startingMana": 0,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.65,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Denting Blow",
+			"description": "Empowers her next basic attack to blast through her target, dealing 250 / 375 / 600 (× Ability power icon.png AP) magic damage to all enemies in a cone and reducing their armor by 40 / 50 / 70% for 8 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Viktor": {
+        "tier": 5,
+		"origin": ["chemtech"],
+		"trait": ["arcanist"],
+		"health": [850, 1530, 2754],
+		"mana": 140,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.8,
+		"attackRange": 4,
+		"armor": 35,
+		"magicResist": 35,
+		"ability": {
+			"name": "Chaos Rays",
+			"description": "PASSIVE: Basic attacks reduces the target's armor by 70% for 6 seconds. ACTIVE: Summons 3 / 4 / 12 singularities to fire death rays that cut across the battlefield in a line and melt enemy defenses. To enemies caught in its path, death rays deal 350 / 450 / 1500 (× Ability power icon.png AP) magic damage and destroys 25 / 35 / 100% of any remaining shields.",
+			"scaling": ["ap"]
+		}
+    },
+	"Warwick": {
+        "tier": 2,
+		"origin": ["chemtech"],
+		"trait": ["challenger"],
+		"health": [750, 1350, 2430],
+		"mana": 0,
+		"startingMana": 0,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.8,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Eternal Hunger",
+			"description": "Basic attacks deal 7 / 9 / 12% (× Ability power icon.png AP) of the target's current health bonus magic damage, and heal him for 35 / 50 / 75 (× Ability power icon.png AP).",
+			"scaling": ["ap"]
+		}
+    },
+	"Yone": {
+        "tier": 4,
+		"origin": ["academy"],
+		"trait": ["challenger"],
+		"health": [950, 1710, 3078],
+		"mana": 100,
+		"startingMana": 50,
+		"attackDamage": [80, 144, 259.2],
+		"attackSpeed": 0.85,
+		"attackRange": 1,
+		"armor": 40,
+		"magicResist": 40,
+		"ability": {
+			"name": "Soul Unbound",
+			"description": "Summons his spirit to attack an enemy up to 3 hexes away for a 4 / 5 / 20 seconds. The spirit is an untargetable, invulnerable copy of him and heals him for 40 / 50 / 100% (× Ability power icon.png AP) of the damage it deals. If he dies, his spirit dies with him.",
+			"scaling": ["ap"]
+		}
+    },
+	"Yuumi": {
+        "tier": 5,
+		"origin": ["academy", "cuddly"],
+		"trait": ["scholar"],
+		"health": [850, 1530, 2754],
+		"mana": 200,
+		"startingMana": 80,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.8,
+		"attackRange": 4,
+		"armor": 30,
+		"magicResist": 30,
+		"ability": {
+			"name": "Final Chapter",
+			"description": "Detaches from an ally and then launch 3 / 5 / 33 waves toward the farthest enemy, each dealing 45 / 80 / 247 (× Ability power icon.png AP) magic damage per wave and Stun icon.png stuns enemies for 1 second. She then attaches to the nearest ally.",
+			"scaling": ["ap"]
+		}
+    },
+	"Zac": {
+        "tier": 3,
+		"origin": ["chemtech"],
+		"trait": ["bruiser"],
+		"health": [70, 126, 226.8],
+		"mana": 100,
+		"startingMana": 60,
+		"attackDamage": [70, 126, 226.8],
+		"attackSpeed": 0.6,
+		"attackRange": 1,
+		"armor": 45,
+		"magicResist": 45,
+		"ability": {
+			"name": "Yoink!",
+			"description": "Stretches his arms up to 3 hexes to pull the 2 most distant enemies towards him, dealing 400 / 525 / 999 (× Ability power icon.png AP) magic damage.",
+			"scaling": ["ap"]
+		}
+    },
+	"Ziggs": {
+        "tier": 1,
+		"origin": ["scrap", "yordle"],
+		"trait": ["arcanist"],
+		"health": [500, 900, 1620],
+		"mana": 60,
+		"startingMana": 0,
+		"attackDamage": [45, 81, 145.8],
+		"attackSpeed": 0.6,
+		"attackRange": 4,
+		"armor": 15,
+		"magicResist": 15,
+		"ability": {
+			"name": "Mini Inferno Bomb",
+			"description": "Hurls a bomb at his target. After a moderate delay, the bomb lands dealing 325 / 425 / 525 (× Ability power icon.png AP) magic damage to the enemy in the epicenter, and half to adjacent enemies.",
+			"scaling": ["ap"]
+		}
+    },
+	"Zilean": {
+        "tier": 1,
+		"origin": ["clockwork"],
+		"trait": ["innovator"],
+		"health": [600, 1080, 1944],
+		"mana": 80,
+		"startingMana": 40,
+		"attackDamage": [40, 72, 129.6],
+		"attackSpeed": 0.6,
+		"attackRange": 4,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Time Bomb",
+			"description": "Places a bomb on the closest enemy, Stun icon.png stunning them for 1.5 / 2 / 2.5 seconds. When the stun ends, or the target dies, the bomb explodes dealing 250 / 350 / 700 (× Ability power icon.png AP) magic damage to adjacent enemies and reducing their attack speed by 20 / 35 / 50% for 3 seconds.",
+			"scaling": ["ap"]
+		}
+    },
+	"Zyra": {
+        "tier": 2,
+		"origin": ["syndicate"],
+		"trait": ["scholar"],
+		"health": [600, 1080, 1944],
+		"mana": 120,
+		"startingMana": 60,
+		"attackDamage": [50, 90, 162],
+		"attackSpeed": 0.7,
+		"attackRange": 4,
+		"armor": 20,
+		"magicResist": 20,
+		"ability": {
+			"name": "Grasping Spines",
+			"description": "Summons vines in the row with the most enemies, dealing 350 / 450 / 650 (× Ability power icon.png AP) magic damage and Stun icon.png stunning them for 1.5 / 2 / 2.5 seconds.",
+			"scaling": ["ap"]
+		}
+    }
+}

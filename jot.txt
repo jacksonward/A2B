@@ -1,0 +1,37 @@
+- Each player has a bag that starts with 2 of each item. 
+- Any time you get items from neutral drops it pulls from the bag. After Every carousel round you get 1 more of each item added to the bag
+- If there are 2 item components you want form carousel and you're unsure which one to go for, 
+you should go for the one you have gotten more of from drops for better odds.
+
+Champion Pool Reference
+
+            One-cost (29)	       Two-cost (22)	       Three-cost (18)	Four-cost (12)	Five-cost (10)
+Level 1	    100%	        –	–	        –	              –
+Level 2	    100%	        –	–	        –	              –
+Level 3	    75%	            25%	            –	–	        –
+Level 4	    55%	            30%	            15%	            –	–
+Level 5	    45%	            33%	            20%	            2%	            –
+Level 6	    25%	            40%	            30%	            5%	            –
+Level 7	    19%	            30%	            35%	            15%	            1%
+Level 8	    15%	            20%	            35%	            25%	            5%
+Level 9	    10%	            15%	            30%	            30%	            15%
+
+Keyboard Controls Reference
+
+    D-Key: Refreshes the Champion Store! This costs you 2-gold when you do it.
+
+    F-Key: Purchases XP towards leveling up your team. The higher level you have, the more Champions you can have on the board.
+
+    W-Key: If you press W while hovering over a Champion, it will deploy it to the battlefield from the bench and vice versa. 
+           This is more useful for benching Champions, because you are going to want to specifically place your Champions in a position to maximize their potential.
+
+    E-Key: If you press this while hovering over one of your Champions, it will sell them to the store. Just be careful not to accidentally sell one you want to keep!
+
+    1-Key and 3-Key: These will cycle you through your opponent's boards! The 1-Key will go to the next board, and the 3-Key will go to the previous board. 
+           This is useful for scouting what the other players are using!
+
+    CTRL + 1-4: If you hold the control key and press 1, 2, 3, or 4 on your keyboard, your Little Legend will do an emote! Each Little Legend has their own emotes, 
+           so they won't be consistent across the board.
+
+    2-Key or Spacebar: Pressing the spacebar will bring your camera back to your Little Legend. 
+           This is useful if you want to get back to what's going on after you were scouting your opponent's boards.
